@@ -1,0 +1,14 @@
+# m11qnsxx-user 11 RP1A.200720.012 M115FXXU2BUD8 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: m11q
+- flavor: m11qnsxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: M115FXXU2BUD8
+- tags: release-keys
+- fingerprint: samsung/m11qnsxx/m11q:11/RP1A.200720.012/M115FXXU2BUD8:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m11qnsxx-user-11-RP1A.200720.012-M115FXXU2BUD8-release-keys
+- repo: samsung_m11q_dump
