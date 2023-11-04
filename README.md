@@ -1,0 +1,19 @@
+## m11qnsxx-user 12 SP1A.210812.016 M115FXXU5CWE3 release-keys
+- Manufacturer: samsung
+- Platform: msm8953
+- Codename: m11q
+- Brand: samsung
+- Flavor: m11qnsxx-user
+- Release Version: 12
+- Kernel Version: 4.9.227
+- Id: SP1A.210812.016
+- Incremental: M115FXXU5CWE3
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/m11qnsxx/m11q:12/SP1A.210812.016/M115FXXU5CWE3:user/release-keys
+- OTA version: 
+- Branch: m11qnsxx-user-12-SP1A.210812.016-M115FXXU5CWE3-release-keys
+- Repo: samsung_m11q_dump
