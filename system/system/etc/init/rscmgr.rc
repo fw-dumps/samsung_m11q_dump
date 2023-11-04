@@ -1,0 +1,16 @@
+# rscmgr rc file
+
+on property:sys.readahead.resource=1
+    readahead /system/app/HoneyBoard/HoneyBoard.apk --fully
+    readahead /data/dalvik-cache/arm/system@app@HoneyBoard@HoneyBoard.apk@classes.dex --fully
+    readahead /data/dalvik-cache/arm/system@app@HoneyBoard@HoneyBoard.apk@classes.vdex --fully
+    readahead /system/app/HoneyBoard/oat/arm/HoneyBoard.odex --fully
+    readahead /system/app/HoneyBoard/oat/arm/HoneyBoard.vdex --fully
+    readahead /system/app/IceCone/IceCone.apk --fully
+    readahead /system/priv-app/SamsungDialer/SamsungDialer.apk --fully
+    readahead /system/priv-app/SamsungContacts/SamsungContacts.apk --fully
+    readahead /system/priv-app/SamsungGallery2018/SamsungGallery2018.apk --fully
+    readahead /system/priv-app/SecMyFiles2020/SecMyFiles2020.apk --fully
+    readahead /data/dalvik-cache/arm/system@priv-app@SamsungGallery2018@SamsungGallery2018.apk@classes.dex --fully
+    readahead /data/dalvik-cache/arm/system@priv-app@SamsungGallery2018@SamsungGallery2018.apk@classes.vdex --fully
+    setprop sys.readahead.resource 0
