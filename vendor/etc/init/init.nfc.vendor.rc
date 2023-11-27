@@ -1,0 +1,9 @@
+on boot
+
+on post-fs-data
+# NFC storage
+    mkdir /data/vendor/nfc 0770 nfc nfc
+
+# NFC permission
+    chown nfc nfc /dev/nq-nci
+    chmod 0770 /dev/nq-nci
